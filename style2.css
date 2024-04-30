@@ -1,0 +1,23 @@
+body{
+    background-color: #00ddff;
+}
+ul{
+    list-style: none;
+    color:blue;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#main{
+    border: solid 10px green;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+#right{
+    display: flex;
+    justify-content: right;
+}
+#left{
+    display: flex;
+    justify-content:;
+}
